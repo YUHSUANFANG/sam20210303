@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True 02_production.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True sam20210303.ipynb
