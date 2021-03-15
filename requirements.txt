@@ -16,7 +16,7 @@ voila
 pandas
 numpy
 sklearn
-requests
+#requests
 requests==0.11.1
 
 
