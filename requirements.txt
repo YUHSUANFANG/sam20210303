@@ -16,7 +16,7 @@ voila
 pandas
 numpy
 sklearn
-
+requests
 
 
 
