@@ -17,6 +17,7 @@ pandas
 numpy
 sklearn
 requests
+requests==0.11.1
 
 
 
