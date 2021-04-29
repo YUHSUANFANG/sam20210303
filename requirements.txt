@@ -20,10 +20,10 @@ sklearn
 requests==0.11.1
 time
 os 
-torch
-torch.nn
-torchvision
-torchvision.models
+#torch
+#torch.nn
+#torchvision
+#torchvision.models
 matplotlib.pyplot
 
 
